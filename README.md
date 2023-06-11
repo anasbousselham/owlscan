@@ -10,3 +10,6 @@ OwlScan is a powerful security assessment tool designed to scan web applications
 By integrating OwlScan into your security measures, you can significantly increase your cybersecurity stance and mitigate many security risks at a low resource cost.
 
 [![asciicast](https://asciinema.org/a/590793.svg)](https://asciinema.org/a/590793)
+
+- Web Application Firewall (WAF) Detection.
+![alt text](https://www.owlscan.io/github/images/waf.jpg?raw=true)
