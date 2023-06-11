@@ -1,7 +1,7 @@
 # OwlScan 
 ## _Passive Web Vulnerability Scanner_
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/anasbousselham/owlscan?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/anasbousselham/owlscan?include_prereleases) ![GitHub last commit](https://img.shields.io/github/last-commit/anasbousselham/owlscan)
 
 
 
