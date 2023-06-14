@@ -13,3 +13,12 @@ By integrating OwlScan into your security measures, you can significantly increa
 
 - Web Application Firewall (WAF) Detection.
 ![alt text](https://www.owlscan.io/github/images/waf.jpg?raw=true)
+
+
+
+## Features
+- [x] XSS vulnerability detection [Reflected xss, Stored xss] [POST,GET]
+- [x] SQL Injection Detection [Error-based, Boolean-based, Time-based] [POST,GET]
+- [x] Local File Inclusion [Linux]
+- [ ] XML Entity Injection Detection < %60
+- [ ] PoC management [Conversion from Nuclei templates] < 70%
