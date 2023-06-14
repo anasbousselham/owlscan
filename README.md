@@ -20,5 +20,6 @@ By integrating OwlScan into your security measures, you can significantly increa
 - [x] XSS vulnerability detection [Reflected xss, Stored xss] [POST,GET]
 - [x] SQL Injection Detection [Error-based, Boolean-based, Time-based] [POST,GET]
 - [x] Local File Inclusion [Linux]
+- [x] Web Application Firewall (WAF) Detection [AWS, BIG-IP, CloudFlare, FortiWeb]
 - [ ] XML Entity Injection Detection < %60
 - [ ] PoC management [Conversion from Nuclei templates] < 70%
