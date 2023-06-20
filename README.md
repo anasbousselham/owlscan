@@ -15,9 +15,9 @@ By integrating OwlScan into your security measures, you can significantly increa
 ![alt text](https://www.owlscan.io/github/images/waf.jpg?raw=true)
 
 - API Scan with PostMan
-![alt text](https://www.owlscan.io/github/images/API01.jpg.jpg?raw=true)
+![alt text](https://www.owlscan.io/github/images/API01.jpg?raw=true)
 
-![alt text](https://www.owlscan.io/github/images/API02.jpg.jpg?raw=true)
+![alt text](https://www.owlscan.io/github/images/API02.jpg?raw=true)
 
 
 
