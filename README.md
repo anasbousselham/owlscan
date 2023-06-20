@@ -14,6 +14,11 @@ By integrating OwlScan into your security measures, you can significantly increa
 - Web Application Firewall (WAF) Detection.
 ![alt text](https://www.owlscan.io/github/images/waf.jpg?raw=true)
 
+- API Scan with PostMan
+![alt text](https://www.owlscan.io/github/images/API01.jpg.jpg?raw=true)
+
+![alt text](https://www.owlscan.io/github/images/API02.jpg.jpg?raw=true)
+
 
 
 ## Features
