@@ -23,3 +23,4 @@ By integrating OwlScan into your security measures, you can significantly increa
 - [x] Web Application Firewall (WAF) Detection [AWS, BIG-IP, CloudFlare, FortiWeb]
 - [ ] XML Entity Injection Detection < %60
 - [ ] PoC management [Conversion from Nuclei templates] < 70%
+- [ ] Full API version < %40
